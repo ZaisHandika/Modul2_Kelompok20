@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Nikzxs/AndroidStudioProjects/Modul2_Kel20/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/Nikzxs/AndroidStudioProjects/Modul2_Kel20/app/src/main/res/drawable/bg_btn_blue.xml" value="0.1" />
+        <entry key="..\:/Users/Nikzxs/AndroidStudioProjects/Modul2_Kel20/app/src/main/res/drawable/bg_header_home.xml" value="0.1" />
+        <entry key="..\:/Users/Nikzxs/AndroidStudioProjects/Modul2_Kel20/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Nikzxs/AndroidStudioProjects/Modul2_Kel20/app/src/main/res/drawable/onboarding_indicator_active.xml" value="0.1" />
+        <entry key="..\:/Users/Nikzxs/AndroidStudioProjects/Modul2_Kel20/app/src/main/res/drawable/onboarding_indicator_inactive.xml" value="0.1" />
+        <entry key="..\:/Users/Nikzxs/AndroidStudioProjects/Modul2_Kel20/app/src/main/res/layout/activity_detail.xml" value="0.14990942028985507" />
+        <entry key="..\:/Users/Nikzxs/AndroidStudioProjects/Modul2_Kel20/app/src/main/res/layout/activity_landing_page.xml" value="0.1" />
+        <entry key="..\:/Users/Nikzxs/AndroidStudioProjects/Modul2_Kel20/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Nikzxs/AndroidStudioProjects/Modul2_Kel20/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="..\:/Users/Nikzxs/AndroidStudioProjects/Modul2_Kel20/app/src/main/res/layout/item_cointainer_onboarding.xml" value="0.1" />
+        <entry key="..\:/Users/Nikzxs/AndroidStudioProjects/Modul2_Kel20/app/src/main/res/layout/item_container_onboarding.xml" value="0.1" />
+        <entry key="..\:/Users/Nikzxs/AndroidStudioProjects/Modul2_Kel20/app/src/main/res/layout/item_rv_list_user.xml" value="0.14990942028985507" />
+        <entry key="..\:/Users/Zais Handika M/AndroidStudioProjects/Modul2_Kel20v2/app/src/main/res/drawable/bg_btn_blue.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/Zais Handika M/AndroidStudioProjects/Modul2_Kel20v2/app/src/main/res/drawable/gradient_background.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/Zais Handika M/AndroidStudioProjects/Modul2_Kel20v2/app/src/main/res/drawable/kindsteel_background.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/Zais Handika M/AndroidStudioProjects/Modul2_Kel20v2/app/src/main/res/drawable/lemongate_backgorund.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/Zais Handika M/AndroidStudioProjects/Modul2_Kel20v2/app/src/main/res/drawable/lemongate_background.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/Zais Handika M/AndroidStudioProjects/Modul2_Kel20v2/app/src/main/res/layout/about_activity.xml" value="0.1" />
+        <entry key="..\:/Users/Zais Handika M/AndroidStudioProjects/Modul2_Kel20v2/app/src/main/res/layout/about_detail.xml" value="0.1" />
+        <entry key="..\:/Users/Zais Handika M/AndroidStudioProjects/Modul2_Kel20v2/app/src/main/res/layout/activity_detail.xml" value="0.14" />
+        <entry key="..\:/Users/Zais Handika M/AndroidStudioProjects/Modul2_Kel20v2/app/src/main/res/layout/activity_detail2.xml" value="0.1" />
+        <entry key="..\:/Users/Zais Handika M/AndroidStudioProjects/Modul2_Kel20v2/app/src/main/res/layout/activity_landing_page.xml" value="0.25" />
+        <entry key="..\:/Users/Zais Handika M/AndroidStudioProjects/Modul2_Kel20v2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Zais Handika M/AndroidStudioProjects/Modul2_Kel20v2/app/src/main/res/layout/item_container_onboarding.xml" value="0.1" />
+        <entry key="..\:/Users/Zais Handika M/AndroidStudioProjects/Modul2_Kel20v2/app/src/main/res/layout/item_rv_list_user.xml" value="0.13" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
